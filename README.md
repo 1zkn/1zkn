@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- I’m @1zkn
+- 👀 I’m interested in writing code 
+- 🌱 I’m currently learning JavaScript, React, NodeJs and English
+- 📫 How to reach me
+  - @zkev92 on X（Twitter）
+  - Email: hi@zkevin.net
+
 <!--
 **1zkn/1zkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
