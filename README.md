@@ -4,7 +4,6 @@
 - 👀 I’m interested in writing code 
 - 🌱 I’m currently learning JavaScript, React, NodeJs and English
 - 📫 How to reach me
-  - @zkev92 on X（Twitter）
   - Email: hi@zkevin.net
  
 
