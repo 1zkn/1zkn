@@ -1,26 +1,19 @@
-## Hi there 👋
+<h1>1zkn</h1>
+<p><em>not a persona, just a signal</em></p>
 
-- I’m @1zkn
-- 👀 I’m interested in writing code 
-- 🌱 I’m currently learning JavaScript, React, NodeJs and English
-- 📫 How to reach me
-  - Email: hi@zkevin.net
- 
+---
 
+📡 代码断续写着  
+🕸️ 少量自托管  
+🔧 学习 JavaScript / React / Go / English  
+📭 hi@zkevin.net  
+🕒 wakatime:  
 [![wakatime](https://wakatime.com/badge/user/018dd19d-32ca-40b7-bbd8-0eb0174c128c.svg)](https://wakatime.com/@018dd19d-32ca-40b7-bbd8-0eb0174c128c)
 
-![1zkn](https://cf-cdn.nahida.one/file/kev/1zkn-github.png)
-<!--
-**1zkn/1zkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://cf-cdn.nahida.one/file/kev/1zkn-github.png" height="180px" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><code>1zkn = stable id</code></p>
